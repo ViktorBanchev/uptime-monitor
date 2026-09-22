@@ -1,0 +1,21 @@
+{
+  "name": "uptime-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViktorBanchev/uptime-monitor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ViktorBanchev/uptime-monitor/issues"
+  },
+  "homepage": "https://github.com/ViktorBanchev/uptime-monitor#readme"
+}
