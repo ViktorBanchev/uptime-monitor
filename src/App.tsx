@@ -1,4 +1,5 @@
 import './App.css'
+import Dashboard from './pages/Dashboard'
 
 function App() {
 
@@ -8,6 +9,7 @@ function App() {
 
 			<main>
 				Dashboard here
+				<Dashboard />
 			</main>
 
 			<h2>Footer here</h2>
